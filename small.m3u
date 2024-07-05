@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP [4K]" tvg-logo="http://p6.vc/AZH" group-title="Canais | 4K",Band SP [4K]
+http://pfsv.io:80/1167524290/83551/580.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [FHD]" tvg-logo="http://p6.vc/VVH" group-title="Canais | Abertos",BAND SP [FHD]
+http://pfsv.io:80/1167524290/83551/113585.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [HD]" tvg-logo="http://p6.vc/VVG" group-title="Canais | Abertos",BAND SP [HD]
+http://pfsv.io:80/1167524290/83551/113584.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [SD]" tvg-logo="http://p6.vc/VVF" group-title="Canais | Abertos",BAND SP [SD]
+http://pfsv.io:80/1167524290/83551/113583.ts
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORT [FHD]" tvg-logo="http://p6.vc/ANX" group-title="Canais | Esportes",BAND SPORT [FHD]
+http://pfsv.io:80/1167524290/83551/247.ts
 #EXTINF:-1 tvg-logo="" group-title="Cameras ao Vivo",[CAM] Atlanta International Airport Cam 1
 http://pfsv.io:80/0/0/33397
 #EXTINF:-1 tvg-logo="" group-title="Cameras ao Vivo",[CAM] Atlanta International Airport Cam 2
