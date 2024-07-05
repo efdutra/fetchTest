@@ -1,0 +1,201 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy56v4jtwr8qqn39p"
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77795_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",A&E
+http://pfsv.io:80/4105607566/85769/293
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92009_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",AMC
+http://pfsv.io:80/4105607566/85769/294
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18651_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Animal Planet
+http://pfsv.io:80/4105607566/85769/164
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79689_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Arte 1
+http://pfsv.io:80/4105607566/85769/165
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75580_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",AXN
+http://pfsv.io:80/4105607566/85769/122939
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41309_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",BAND
+http://pfsv.io:80/4105607566/85769/113588
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54679_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Band News
+http://pfsv.io:80/4105607566/85769/510
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sport" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54680_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Band Sport
+http://pfsv.io:80/4105607566/85769/247
+#EXTINF:-1 tvg-id="BBCWorldNews.br" tvg-name="BBC World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75797_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",BBC World
+http://pfsv.io:80/4105607566/85769/59977
+#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94122_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",BIS
+http://pfsv.io:80/4105607566/85769/5
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94564_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Canal Brasil
+http://pfsv.io:80/4105607566/85769/298
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16142_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Cartoon Network
+http://pfsv.io:80/4105607566/85769/126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chef TV" tvg-logo="" group-title="Canais | Principais" tvg-shift="-3",Chef TV
+http://pfsv.io:80/4105607566/85769/69079
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101727_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Cinecanal
+http://pfsv.io:80/4105607566/85769/132944
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CineMax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104743_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",CineMax
+http://pfsv.io:80/4105607566/85769/275
+#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106262_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",CNN
+http://pfsv.io:80/4105607566/85769/58203
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114159_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",CNN Brasil
+http://pfsv.io:80/4105607566/85769/513
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s85800_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Combate
+http://pfsv.io:80/4105607566/85769/249
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83200_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Comedy Central
+http://pfsv.io:80/4105607566/85769/97
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79639_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Curta!
+http://pfsv.io:80/4105607566/85769/98
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79018_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Discovery Channel
+http://pfsv.io:80/4105607566/85769/166
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83208_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Discovery Home & Health
+http://pfsv.io:80/4105607566/85769/168
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56075_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Discovery Science
+http://pfsv.io:80/4105607566/85769/169
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75835_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Discovery Theater
+http://pfsv.io:80/4105607566/85769/170
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56076_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Discovery Turbo
+http://pfsv.io:80/4105607566/85769/171
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75605_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Discovery World
+http://pfsv.io:80/4105607566/85769/172
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="Dog TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105899_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Dog TV
+http://pfsv.io:80/4105607566/85769/32426
+#EXTINF:-1 tvg-id="E.br" tvg-name="E!" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4839/brand.gif?itok=K8k3SbSk" group-title="Canais | Principais" tvg-shift="-3",E!
+http://pfsv.io:80/4105607566/85769/30186
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",ESPN
+http://pfsv.io:80/4105607566/85769/250
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FashionTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98036_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",FashionTV
+http://pfsv.io:80/4105607566/85769/38526
+#EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="Film&Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110389_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Film&Arts
+http://pfsv.io:80/4105607566/85769/92668
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79594_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Fish Tv
+http://pfsv.io:80/4105607566/85769/100
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90905_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Food Network
+http://pfsv.io:80/4105607566/85769/101
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Fox Sports 2
+http://pfsv.io:80/4105607566/85769/252
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20386_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Futura
+http://pfsv.io:80/4105607566/85769/43
+#EXTINF:-1 tvg-id="FX.br" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98922_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",FX
+http://pfsv.io:80/4105607566/85769/130686
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Globo
+http://pfsv.io:80/4105607566/85769/354
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95744_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Globo News
+http://pfsv.io:80/4105607566/85769/512
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79019_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",GNT
+http://pfsv.io:80/4105607566/85769/102
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO
+http://pfsv.io:80/4105607566/85769/123488
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO 2
+http://pfsv.io:80/4105607566/85769/470
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO Family
+http://pfsv.io:80/4105607566/85769/464
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69097_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO Mundi
+http://pfsv.io:80/4105607566/85769/123557
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO Plus
+http://pfsv.io:80/4105607566/85769/123491
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO POP
+http://pfsv.io:80/4105607566/85769/123554
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74530_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO Signature
+http://pfsv.io:80/4105607566/85769/123555
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54590_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HBO Xtreme
+http://pfsv.io:80/4105607566/85769/123559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Zone" tvg-logo="" group-title="Canais | Principais" tvg-shift="-3",HBO Zone
+http://pfsv.io:80/4105607566/85769/108425
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111476_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",HGTV
+http://pfsv.io:80/4105607566/85769/167
+#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75589_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",History Channel
+http://pfsv.io:80/4105607566/85769/174
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History Channel 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98187_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",History Channel 2
+http://pfsv.io:80/4105607566/85769/173
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Investigacao Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83193_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Investigacao Discovery
+http://pfsv.io:80/4105607566/85769/175
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem PAN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121547_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Jovem PAN News
+http://pfsv.io:80/4105607566/85769/98166
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Life Time" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102409_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Life Time
+http://pfsv.io:80/4105607566/85769/280
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116910_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Loading
+http://pfsv.io:80/4105607566/85769/58245
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Natural" tvg-logo="" group-title="Canais | Principais" tvg-shift="-3",Love Natural
+http://pfsv.io:80/4105607566/85769/50835
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MegaPix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78130_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",MegaPix
+http://pfsv.io:80/4105607566/85769/123510
+#EXTINF:-1 tvg-id="ModoViagem.br" tvg-name="Modo Viagem" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Modo Viagem
+http://pfsv.io:80/4105607566/85769/103
+#EXTINF:-1 tvg-id="MTVBrasil.br" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78154_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",MTV
+http://pfsv.io:80/4105607566/85769/1
+#EXTINF:-1 tvg-id="MTV00s.br" tvg-name="MTV 00s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103763_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",MTV 00s
+http://pfsv.io:80/4105607566/85769/108973
+#EXTINF:-1 tvg-id="MTVLive.br" tvg-name="MTV Live" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113444_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",MTV Live
+http://pfsv.io:80/4105607566/85769/2
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78181_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Multishow
+http://pfsv.io:80/4105607566/85769/3
+#EXTINF:-1 tvg-id="MusicBoxBrasil.br" tvg-name="Music BOX Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94895_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Music BOX Brasil
+http://pfsv.io:80/4105607566/85769/4
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95745_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",National Geographic
+http://pfsv.io:80/4105607566/85769/176
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94119_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",OFF
+http://pfsv.io:80/4105607566/85769/253
+#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90944_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Paramount Network
+http://pfsv.io:80/4105607566/85769/296
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78279_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Prime Box Brasil
+http://pfsv.io:80/4105607566/85769/104
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127718_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Record News
+http://pfsv.io:80/4105607566/85769/511
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",RecordTV
+http://pfsv.io:80/4105607566/85769/45
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18122_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",RedeTV!
+http://pfsv.io:80/4105607566/85769/48
+#EXTINF:-1 tvg-id="SaborandArte.br" tvg-name="Sabor e Arte" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121625_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Sabor e Arte
+http://pfsv.io:80/4105607566/85769/127312
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",SBT
+http://pfsv.io:80/4105607566/85769/46
+#EXTINF:-1 tvg-id="CanalSmithsonian.br" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113446_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Smithsonian Channel
+http://pfsv.io:80/4105607566/85769/193
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75596_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Sony Channel
+http://pfsv.io:80/4105607566/85769/130685
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75598_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Space
+http://pfsv.io:80/4105607566/85769/123512
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",SporTV
+http://pfsv.io:80/4105607566/85769/555
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94568_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",SporTV 2
+http://pfsv.io:80/4105607566/85769/553
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94570_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",SporTV 3
+http://pfsv.io:80/4105607566/85769/554
+#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75586_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Star Channel
+http://pfsv.io:80/4105607566/85769/123484
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16427_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Studio Universal
+http://pfsv.io:80/4105607566/85769/283
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75599_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",SYFY
+http://pfsv.io:80/4105607566/85769/284
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80713_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TBS
+http://pfsv.io:80/4105607566/85769/285
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56102_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TCM
+http://pfsv.io:80/4105607566/85769/59978
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75600_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Telecine Action
+http://pfsv.io:80/4105607566/85769/123550
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84420_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Telecine Cult
+http://pfsv.io:80/4105607566/85769/123553
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78314_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Telecine Fun
+http://pfsv.io:80/4105607566/85769/123552
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75603_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Telecine Pipoca
+http://pfsv.io:80/4105607566/85769/123548
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78306_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Telecine Premium
+http://pfsv.io:80/4105607566/85769/123549
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78304_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Telecine Touch
+http://pfsv.io:80/4105607566/85769/123551
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73859_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TLC
+http://pfsv.io:80/4105607566/85769/286
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TNT
+http://pfsv.io:80/4105607566/85769/123504
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101728_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TNT Series
+http://pfsv.io:80/4105607566/85769/123514
+#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="Trace Brazuca" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115022_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Trace Brazuca
+http://pfsv.io:80/4105607566/85769/50878
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98059_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Travel Box Brasil
+http://pfsv.io:80/4105607566/85769/50882
+#EXTINF:-1 tvg-id="truTV.br" tvg-name="TruTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75608_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TruTV
+http://pfsv.io:80/4105607566/85769/289
+#EXTINF:-1 tvg-id="Cultura.br" tvg-name="TV Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37605_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",TV Cultura
+http://pfsv.io:80/4105607566/85769/47
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Universal Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16427_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Universal Channel
+http://pfsv.io:80/4105607566/85769/290
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94120_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Viva
+http://pfsv.io:80/4105607566/85769/105
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",Warner Channel
+http://pfsv.io:80/4105607566/85769/123516
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77820_dark_360w_270h.png" group-title="Canais | Principais" tvg-shift="-3",WooHoo
+http://pfsv.io:80/4105607566/85769/133
